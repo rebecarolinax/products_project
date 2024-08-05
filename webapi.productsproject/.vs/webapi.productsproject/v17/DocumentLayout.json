@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\context\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:context\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\interfaces\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:interfaces\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|c:\\users\\54931473865\\desktop\\webapi.productsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8578CF34-F2BC-4A9C-9AD0-ABF0CBC513C5}|webapi.productsproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductsRepository.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:50:22.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Context\\ProductsContext.cs",
+              "RelativeDocumentMoniker": "Context\\ProductsContext.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Context\\ProductsContext.cs",
+              "RelativeToolTip": "Context\\ProductsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:47:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Domains\\Products.cs",
+              "RelativeDocumentMoniker": "Domains\\Products.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Domains\\Products.cs",
+              "RelativeToolTip": "Domains\\Products.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:29:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:18:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProducts.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Interfaces\\IProducts.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProducts.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Interfaces\\IProducts.cs",
+              "RelativeToolTip": "Interfaces\\IProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:17:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\54931473865\\Desktop\\webapi.productsproject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:11:43.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
